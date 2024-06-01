@@ -1,5 +1,5 @@
+# (https://www.linkedin.com/in/sharmin-akter-metu/overlay/background-image/)
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 # 💫 About Me:
 🔭 I’m currently working on next.js project.<br>👯 I’m looking to collaborate on development community<br>🌱 I’m currently learning next.js, docker<br>💬 Ask me about JS, React<br>⚡ Fun fact You are looking at my profile.
 
